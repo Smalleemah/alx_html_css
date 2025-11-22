@@ -23,7 +23,7 @@ header nav {
 header nav ul {
     display: flex;
     gap: 50px;
-
+    /* text-decoration: none; */
 }
 
 header nav ul li a {
@@ -40,6 +40,7 @@ main {
 }
 
 main section {
+    /* background: url(/public/Smile\ g.png) no-repeat center center/cover; */
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -53,7 +54,7 @@ main section div {
 h1 {
     font-size: 130px;
     margin: 0 0 20px;
-
+    /* font-family: bold sans-serif ; */
 }
 
 main section div span {
@@ -80,6 +81,7 @@ main section div:nth-child(2) h2 span {
 main section div:nth-child(2) div {
     display: flex;
     margin-left: 20px;
+    /* text-align: center; */
 }
 
 
